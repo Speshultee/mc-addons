@@ -1,9 +1,5 @@
-# mc-addons
-- Custom Minecraft addons made by me
-- [![QOL](https://i.postimg.cc/T2b5d8L0/really-now.png)](https://postimg.cc/py2LC6B5)
-
-
-
+[![QOL](https://i.postimg.cc/T2b5d8L0/really-now.png)](https://postimg.cc/py2LC6B5)
+---
 # Version Requirements: These values must match!
 #### QOL Commands [1.0.0]  =>  Detection [1.0.7]
 
