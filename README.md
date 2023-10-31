@@ -1,8 +1,9 @@
 [![QOL](https://i.postimg.cc/T2b5d8L0/really-now.png)](https://postimg.cc/py2LC6B5)
 
-# Version Requirements: These values must match! {#custom-id}
-### QOL Commands [1.0.0]  =>  Detection [1.0.7]
-
+# Version Requirements: These values must match!
+## QOL Commands [1.0.0]  =>  Detection [1.0.7]
+---
+---
 
 1.  This addon REQUIRES another addon called `Better Command Detection` AKA `Detection` and will not work without eachother!
 
