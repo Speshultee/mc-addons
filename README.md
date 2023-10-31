@@ -11,9 +11,9 @@
 
 2.  This behavior pack must be located under the `Better Command Detection` behavior pack in game to work properly! 
 
-3.  If you don't already have `Better Command Detection`, download it here:\n
-  • [Better Command Detection @ mcpedl.com](https://mcpedl.com/betther-command-detection/)
+3.  If you don't already have `Better Command Detection`, download it here:
+ - [Better Command Detection @ mcpedl.com](https://mcpedl.com/betther-command-detection/)
 
-4.  The latest update is not always immediately published to MCPEDL so join their [Discord](https://discord.com/invite/cPvgNdvEuh)
+5.  The latest update is not always immediately published to MCPEDL so join their [Discord](https://discord.com/invite/cPvgNdvEuh)
 
-5.  Contact `speshyyt`(600824086943367168) in the same Discord server for questions or help with this QOL addon!
+6.  Contact `speshyyt`(600824086943367168) in the same Discord server for questions or help with this QOL addon!
