@@ -8,8 +8,7 @@
 
 2. This behavior pack must be located under the `Detection` behavior pack in game to work properly! 
 
-3. If you don't already have `Detection`, download it here:
- - [Better Command Detection @ mcpedl.com](https://mcpedl.com/betther-command-detection/)
+3. If you don't already have `Detection`, [download it here](https://mcpedl.com/betther-command-detection/).
 
 4. The latest update is not always immediately published to MCPEDL so join their [Discord](https://discord.com/invite/cPvgNdvEuh)
 
