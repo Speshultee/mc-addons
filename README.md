@@ -1,5 +1,5 @@
 [![QOL](https://i.postimg.cc/T2b5d8L0/really-now.png)](https://postimg.cc/py2LC6B5)
----
+
 # Version Requirements: These values must match!
 #### QOL Commands [1.0.0]  =>  Detection [1.0.7]
 
@@ -17,3 +17,8 @@
 5.  The latest update is not always immediately published to MCPEDL so join their [Discord](https://discord.com/invite/cPvgNdvEuh)
 
 6.  Contact `speshyyt`(600824086943367168) in the same Discord server for questions or help with this QOL addon!
+
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
