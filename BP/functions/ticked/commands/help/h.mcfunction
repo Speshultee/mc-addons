@@ -1,0 +1,10 @@
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "    "}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6   QOL Commands  "}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§o  Type §6!h [command]§r§o for more info!"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§o  Type §6!h [command] [subcmd]§r§o for even more info!"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6§o !clock"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6§o !deathcounter"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6§o !detect"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6§o !playtime"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "§6§o !tp"}]}
+tellraw @a[tag="chatSend:!h"] {"rawtext": [{"text": "    "}]}

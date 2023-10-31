@@ -1,0 +1,28 @@
+{
+	"values": [
+		"ticked/commands/admin/jail",
+		"ticked/commands/help/h",
+		"ticked/commands/help/h_detect",
+		"ticked/commands/help/h_clock",
+		"ticked/commands/help/h_deathcounter",
+		"ticked/commands/help/h_tp",
+		"ticked/commands/help/h_playtime",
+		"ticked/commands/tp/spawn",
+		"ticked/commands/tp/random",
+		"ticked/commands/detect/monsters",
+		"ticked/commands/detect/warden",
+		"ticked/commands/detect/zombie",
+		"ticked/commands/detect/creeper",
+		"ticked/commands/detect/phantom",
+		"ticked/commands/detect/off",
+		"ticked/commands/misc/playtime",
+		"ticked/commands/misc/clock",
+		"ticked/commands/misc/deathcounter",
+		"ticked/constant/timer",
+		"ticked/constant/greetings",
+		"ticked/constant/hostile_detect",
+		"ticked/constant/spawnprotect",
+		"ticked/constant/deathcounter",
+		"ticked/constant/disable_message"
+	]
+}
